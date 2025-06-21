@@ -1,4 +1,4 @@
-# 📱 Página de Aterrizaje para Aplicación Móvil
+# 📱 Página para Aplicación Móvil
 
 Este proyecto es una **página de inicio moderna, responsiva y accesible** creada con **Next.js** y **Tailwind CSS**. Está diseñada para promocionar una aplicación móvil e incluye secciones clave como características, precios, testimonios, blog y formulario de contacto.
 
