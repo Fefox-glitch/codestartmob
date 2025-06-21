@@ -1,5 +1,6 @@
 import HeroSection from '@/components/HeroSection'
 import FeatureSection from '@/components/FeatureSection'
+import TestimonialsSection from '@/components/TestimonialsSection'
 import { Button } from '@/components/ui/button'
 
 export const metadata = {
@@ -15,6 +16,9 @@ export default function MobileAppPage() {
 
       {/* Features Section */}
       <FeatureSection />
+
+      {/* Testimonials Section */}
+      <TestimonialsSection />
 
       {/* Download Section */}
       <section className="py-20 bg-black text-white" id="download">
