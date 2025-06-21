@@ -3,6 +3,7 @@ import FeatureSection from '@/components/FeatureSection'
 import TestimonialsSection from '@/components/TestimonialsSection'
 import PricingSection from '@/components/PricingSection'
 import FaqSection from '@/components/FaqSection'
+import BlogSection from '@/components/BlogSection'
 import ContactSection from '@/components/ContactSection'
 import { Button } from '@/components/ui/button'
 
@@ -28,6 +29,9 @@ export default function MobileAppPage() {
 
       {/* FAQ Section */}
       <FaqSection />
+
+      {/* Blog Section */}
+      <BlogSection />
 
       {/* Contact Section */}
       <ContactSection />
