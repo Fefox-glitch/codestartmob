@@ -1,29 +1,73 @@
-Este es un proyecto Next.js iniciado con create-next-app.
+# 📱 Página de Aterrizaje para Aplicación Móvil
 
-Empezando
-Primero, ejecute el servidor de desarrollo:
+Este proyecto es una **página de inicio moderna, responsiva y accesible** creada con **Next.js** y **Tailwind CSS**. Está diseñada para promocionar una aplicación móvil e incluye secciones clave como características, precios, testimonios, blog y formulario de contacto.
 
+---
+
+## ✨ ¿Qué incluye esta página?
+
+- ✅ **Bienvenida atractiva** con botones de descarga de la app  
+- 🚀 **Funciones destacadas** con íconos y descripciones claras  
+- 💬 **Testimonios reales** con valoraciones de usuarios  
+- 💰 **Planes de precios** con detalles por cada opción  
+- ❓ **Preguntas frecuentes (FAQ)**  
+- 📝 **Sección de blog** con actualizaciones y noticias  
+- 📬 **Formulario de contacto** para dudas o comentarios  
+- 📱 **Diseño adaptable** a dispositivos móviles y de escritorio  
+- ♿ **Optimización SEO y accesibilidad** para buscadores y usuarios
+
+---
+
+## 🛠️ Tecnologías Utilizadas
+
+- [**Next.js**](https://nextjs.org): Framework basado en React para SSR y páginas estáticas  
+- [**Tailwind CSS**](https://tailwindcss.com): Utilidades CSS para estilos rápidos y consistentes  
+- **React Hooks**: Para manejar estados en componentes interactivos  
+- **Componentes modulares**: Código organizado, reutilizable y fácil de mantener
+
+---
+
+## 🚀 ¿Cómo empezar?
+
+### 1. Clonar el proyecto e instalar dependencias
+
+```bash
+git clone <url-del-repositorio>
+cd <nombre-del-proyecto>
+npm install
+```
+
+### 2. Ejecutar en modo desarrollo
+
+```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-Abra http://localhost:3000 con su navegador para ver el resultado.
+```
 
-Puedes empezar a editar la página modificando app/page.tsx. La página se actualiza automáticamente a medida que editas el archivo.
+Abre [http://localhost:8000/mobile-app](http://localhost:8000/mobile-app) para ver el sitio en acción.
 
-Este proyecto se utiliza next/fontpara optimizar y cargar automáticamente Geist , una nueva familia de fuentes para Vercel.
+### 3. Construir para producción
 
-Más información
-Para obtener más información sobre Next.js, consulte los siguientes recursos:
+```bash
+npm run build
+npm start
+```
 
-Documentación de Next.js : obtenga información sobre las características y la API de Next.js.
-Aprenda Next.js : un tutorial interactivo de Next.js.
-Puedes consultar el repositorio de GitHub de Next.js : ¡tus comentarios y contribuciones son bienvenidos!
+---
 
-Implementar en Vercel
-La forma más fácil de implementar su aplicación Next.js es utilizar la plataforma Vercel de los creadores de Next.js.
+## ☁️ Despliegue
 
-Consulte nuestra documentación de implementación de Next.js para obtener más detalles.
+Puedes desplegar este proyecto fácilmente usando **[Vercel](https://vercel.com/)** u otras plataformas similares. Soporta integración continua y despliegue automático.
+
+---
+
+## 🤝 Contribuciones
+
+¿Quieres mejorar esta página?  
+¡Tus aportes son bienvenidos!  
+Abre un _issue_ o envía un _pull request_ para sugerencias, mejoras o correcciones.
+
+---
+
+## 📄 Licencia
+
+Este proyecto está bajo la licencia **MIT**, lo que significa que puedes usarlo, modificarlo y compartirlo libremente.
